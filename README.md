@@ -24,6 +24,7 @@ Le formulaire d'inscription doit comporter les champs suivants :
 * Mot de passe
 * Identité
 * Âge
+* Les boutons de connexions "Facebook" et "Google"
 
 L'ordre des champs est à votre convenance.
 
